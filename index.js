@@ -1,2 +1,4 @@
-const a="5";
-console.log(a);
+const a ="20";
+const b ="a";
+
+console.log("code added by rohit branch")
